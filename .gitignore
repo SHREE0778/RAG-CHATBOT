@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data & DBs
+user_data/
+data/
+uploaded_docs/
+chroma_db/
+*.db
+*.sqlite
+chatbot.log
+
+# Virtual env lock files
+pip-wheel-metadata/
